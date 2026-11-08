@@ -28,7 +28,6 @@ I am sharing the complete project so other students and electronics enthusiasts 
 - 74HC11 triple 3-input AND gate
 - CD4081 quad 2-input AND gate
 - 74HC32 quad OR gate
-- CD4011 NAND gate (if used in the final circuit)
 - Four-position DIP switch
 - Two seven-segment displays
 - Resistors
